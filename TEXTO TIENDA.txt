@@ -1,0 +1,5 @@
+<Hendrix Gonzalez> 
+42555 
+"Jugo de Mango"  - (9; 2) - 12.20
+"Jugo de fresa" -  (1; 7) - 8.10
+
